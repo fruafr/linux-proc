@@ -1,0 +1,2 @@
+reg00: base=0x00000000 (   0MB), size= 256MB: write-back, count=1
+reg01: base=0xe8000000 (3712MB), size=  32MB: write-combining, count=1
