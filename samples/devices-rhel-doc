@@ -1,0 +1,24 @@
+Character devices:
+  1 mem
+  4 /dev/vc/0
+  4 tty
+  4 ttyS
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+  7 vcs
+ 10 misc
+ 13 input
+ 29 fb
+ 36 netlink
+128 ptm
+136 pts
+180 usb
+ 
+Block devices:
+  1 ramdisk
+  3 ide0
+  9 md
+ 22 ide1
+253 device-mapper
+254 mdp
