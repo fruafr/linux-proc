@@ -85,6 +85,7 @@
 
 ## /proc/meminfo
 - [meminfo/meminfo-rhel-4-doc.txt](meminfo/meminfo-rhel-4-doc.txt)
+- [meminfo/meminfo-kernel-doc.txt](meminfo/meminfo-kernel-doc.txt)
 
 ## /proc/misc
 - [misc/misc-rhel-4-doc.txt](misc/misc-rhel-4-doc.txt)
