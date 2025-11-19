@@ -1,10 +1,20 @@
 # List of Linux /proc file samples
 
 ## Sources
-- [The /proc Filesystem - The Linux Kernel](https://docs.kernel.org/filesystems/proc.html) - Official documentation - 6.18.0 (2025)
+- [The /proc Filesystem - The Linux Kernel](https://docs.kernel.org/filesystems/proc.html) - Official documentation - 6.18.0 (2025, 2009)
 - [RedHat Enterprise Linux 4 documentation - 5. The proc File System](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/ch-proc) (circa 2005)
 ----
+## Folders - Subfolders
 
+## /proc/self
+
+
+## /proc/[PID]
+- [maps-kernel-doc.txt](maps-kernel-doc.txt)
+- [smaps-kernel-doc.txt](smaps-kernel-doc.txt)
+
+----
+## Files
 ## /proc/apm
 - [apm/apm-rhel-4-doc.txt](apm/apm-rhel-4-doc.txt)
 
