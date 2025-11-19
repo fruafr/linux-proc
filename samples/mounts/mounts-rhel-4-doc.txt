@@ -1,0 +1,13 @@
+rootfs / rootfs rw 0 0
+/proc /proc proc rw,nodiratime 0 0
+none /dev ramfs rw 0 0
+/dev/mapper/VolGroup00-LogVol00 / ext3 rw 0 0
+none /dev ramfs rw 0 0
+/proc /proc proc rw,nodiratime 0 0
+/sys /sys sysfs rw 0 0
+none /dev/pts devpts rw 0 0
+usbdevfs /proc/bus/usb usbdevfs rw 0 0
+/dev/hda1 /boot ext3 rw 0 0
+none /dev/shm tmpfs rw 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw 0 0
+sunrpc /var/lib/nfs/rpc_pipefs rpc_pipefs rw 0 0
