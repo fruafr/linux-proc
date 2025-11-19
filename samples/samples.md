@@ -6,16 +6,21 @@
 ----
 ## Folders - Subfolders
 
-## /proc/self
-- [self/status-kernel-doc.txt](self/status-kernel-doc.txt)
-
 ## /proc/[PID]
+- PID is the process indentification number
 - [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt)
 - [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt)
 - [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt)
 
 ## /proc/irq
 - [irq/irq-kernel-doc.txt](irq/irq-kernel-doc.txt)
+
+## /proc/net
+- [net/dev-kernel-doc.txt](net/dev-kernel-doc.txt)
+
+## /proc/self
+- [self/status-kernel-doc.txt](self/status-kernel-doc.txt)
+
 ----
 ## Files
 
