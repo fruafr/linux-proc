@@ -1,0 +1,32 @@
+  Bus  0, device   0, function  0:
+    Host bridge: Intel Corporation 440BX/ZX - 82443BX/ZX Host bridge (rev 3).
+      Master Capable.  Latency=64.  
+      Prefetchable 32 bit memory at 0xe4000000 [0xe7ffffff].
+  Bus  0, device   1, function  0:
+    PCI bridge: Intel Corporation 440BX/ZX - 82443BX/ZX AGP bridge (rev 3).
+      Master Capable.  Latency=64.  Min Gnt=128.
+  Bus  0, device   4, function  0:
+    ISA bridge: Intel Corporation 82371AB PIIX4 ISA (rev 2).
+  Bus  0, device   4, function  1:
+    IDE interface: Intel Corporation 82371AB PIIX4 IDE (rev 1).
+      Master Capable.  Latency=32.  
+      I/O at 0xd800 [0xd80f].
+  Bus  0, device   4, function  2:
+    USB Controller: Intel Corporation 82371AB PIIX4 USB (rev 1).
+      IRQ 5.
+      Master Capable.  Latency=32.  
+      I/O at 0xd400 [0xd41f].
+  Bus  0, device   4, function  3:
+    Bridge: Intel Corporation 82371AB PIIX4 ACPI (rev 2).
+      IRQ 9.
+  Bus  0, device   9, function  0:
+    Ethernet controller: Lite-On Communications Inc LNE100TX (rev 33).
+      IRQ 5.
+      Master Capable.  Latency=32.  
+      I/O at 0xd000 [0xd0ff].
+      Non-prefetchable 32 bit memory at 0xe3000000 [0xe30000ff].
+  Bus  0, device  12, function  0:
+    VGA compatible controller: S3 Inc. ViRGE/DX or /GX (rev 1).
+      IRQ 11.
+      Master Capable.  Latency=32.  Min Gnt=4.Max Lat=255.
+      Non-prefetchable 32 bit memory at 0xdc000000 [0xdfffffff].
