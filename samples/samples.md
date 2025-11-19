@@ -1,5 +1,10 @@
 # List of Linux /proc file samples
 
+## Sources
+- [The /proc Filesystem - The Linux Kernel](https://docs.kernel.org/filesystems/proc.html) - Official documentation - 6.18.0 (2025)
+- [RedHat Enterprise Linux 4 documentation - 5. The proc File System](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/ch-proc) (circa 2005)
+----
+
 ## /proc/apm
 - [apm/apm-rhel-4-doc.txt](apm/apm-rhel-4-doc.txt)
 
@@ -94,6 +99,3 @@
 
 ## /proc/version
 - [version/version-rhel-4-doc.txt](version/version-rhel-4-doc.txt)
-
-## Sources
-- [RedHat Enterprise Linux 4 documentation - 5. The proc File System](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/ch-proc) (circa 2005)
