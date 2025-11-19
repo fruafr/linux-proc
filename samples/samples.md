@@ -127,3 +127,4 @@
 - [version/version-rhel-4-doc.txt](version/version-rhel-4-doc.txt)
 
 ## /proc/vmallocinfo
+- [vmallocinfo/vmallocinfo-kernel-doc.txt](vmallocinfo/vmallocinfo-kernel-doc.txt)
