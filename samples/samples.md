@@ -42,7 +42,10 @@
 - [buddyinfo/buddyinfo-kernel-doc.txt](buddyinfo/buddyinfo-kernel-doc.txt)
 
 ## /proc/cmdline
-- [cmdline-rhel-4-doc.txt](cmdline-rhel-4-doc.txt)
+- [cmdline/cmdline-rhel-4-doc.txt](cmdline/cmdline-rhel-4-doc.txt)
+
+## /proc/consoles
+- [consoles/consoles-kernel-doc.txt](consoles/consoles-kernel-doc.txt])
 
 ## /proc/cpuinfo
 - [cpuinfo/cpuinfo-rhel-4-doc.txt](cpuinfo/cpuinfo-rhel-4-doc.txt)
