@@ -1,0 +1,11 @@
+pty_slave            /dev/pts      136   0-255 pty:slave
+pty_master           /dev/ptm      128   0-255 pty:master
+pty_slave            /dev/ttyp       3   0-255 pty:slave
+pty_master           /dev/pty        2   0-255 pty:master
+serial               /dev/cua        5   64-67 serial:callout
+serial               /dev/ttyS       4   64-67 serial
+/dev/tty0            /dev/tty0       4       0 system:vtmaster
+/dev/ptmx            /dev/ptmx       5       2 system
+/dev/console         /dev/console    5       1 system:console
+/dev/tty             /dev/tty        5       0 system:/dev/tty
+unknown              /dev/tty        4    1-63 console
