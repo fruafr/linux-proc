@@ -11,14 +11,13 @@
 - [PID/arch_status-doc.txt](PID/arch_status-doc.txt): /proc/<pid>/arch_status
 - PID/fdinfo
   - fd: [PID/fdinfo/fdinfo-fd-kernel-doc.txt](PID/fdinfo/fdinfo-fd-kernel-doc.txt): /proc/<pid>/fdinfo/<fd>, with fd a number
-  - eventfd:
-  - signalfd:
-  - epoll:
-  - inotify:
-  - fanotify:
-  - dma buffer files:
-  - vfio:
-  
+  - eventfd: [PID/fdinfo/fdinfo-eventfd-kernel-doc.txt](PID/fdinfo/fdinfo-eventfd-kernel-doc.txt)
+  - signalfd: [PID/fdinfo/fdinfo-signalfd-kernel-doc.txt](PID/fdinfo/fdinfo-signalfd-kernel-doc.txt)
+  - epoll: [PID/fdinfo/fdinfo-epoll-kernel-doc.txt](PID/fdinfo/fdinfo-epoll-kernel-doc.txt)
+  - fanotify: [PID/fdinfo/fdinfo-fanotify-kernel-doc.txt](PID/fdinfo/fdinfo-fanotify-kernel-doc.txt)
+  - inotify: [PID/fdinfo/fdinfo-inotify-kernel-doc.txt](PID/fdinfo/fdinfo-inotify-kernel-doc.txt)
+  - dma buffer files: [PID/fdinfo/fdinfo-dma-buffer-kernel-doc.txt](PID/fdinfo/fdinfo-dma-buffer-kernel-doc.txt) 
+  - vfio: [PID/fdinfo/fdinfo-vfio-kernel-doc.txt](PID/fdinfo/fdinfo-vfio-kernel-doc.txt)  
 - [PID/io-kernel-doc.txt](PID/io-kernel-doc.txt): /proc/<pid>/io
 - [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt): /proc/<pid>/maps
 - [PID/mountinfo-kernel-doc.txt](PID/mountinfo-kernel-doc.txt): /proc/<pid>/mountinfo
