@@ -1,0 +1,10 @@
+              CPU0       CPU1       CPU2       CPU3
+    HI:          0          0          0          0
+TIMER:       27166      27120      27097      27034
+NET_TX:          0          0          0         17
+NET_RX:         42          0          0         39
+BLOCK:           0          0        107       1121
+TASKLET:         0          0          0        290
+SCHED:       27035      26983      26971      26746
+HRTIMER:         0          0          0          0
+    RCU:      1678       1769       2178       2250
