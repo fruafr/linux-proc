@@ -1,0 +1,5 @@
+Personalities : [linear] [raid1]
+read_ahead 1024 sectors
+md0: active raid1 sda2[1] sdb2[0] 9940 blocks [2/2] [UU] resync=1% finish=12.3min
+algorithm 2 [3/3] [UUU]
+unused devices: <none>
