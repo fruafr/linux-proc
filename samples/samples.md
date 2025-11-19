@@ -8,12 +8,13 @@
 
 ## /proc/[PID]
 - PID is the process indentification number
-- [PID/arch_status-doc.txt](PID/arch_status-doc.txt)
-- [PID/io-kernel-doc.txt](PID/io-kernel-doc.txt)
-- [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt)
-- [PID/mountinfo-kernel-doc.txt](PID/mountinfo-kernel-doc.txt)
-- [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt)
-- [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt)
+- [PID/arch_status-doc.txt](PID/arch_status-doc.txt): /proc/<pid>/arch_status
+- [PID/fdinfo-fd-kernel-doc.txt](PID/fdinfo-fd-kernel-doc.txt): /proc/<pid>/fdinfo/<fd>, with fd a number
+- [PID/io-kernel-doc.txt](PID/io-kernel-doc.txt): /proc/<pid>/io
+- [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt): /proc/<pid>/maps
+- [PID/mountinfo-kernel-doc.txt](PID/mountinfo-kernel-doc.txt): /proc/<pid>/mountinfo
+- [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt): /proc/<pid>/numa_maps
+- [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt): /proc/<pid>/smaps
 
 ## /proc/irq
 - [irq/irq-kernel-doc.txt](irq/irq-kernel-doc.txt)
