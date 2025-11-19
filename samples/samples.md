@@ -128,6 +128,7 @@
 
 ## /proc/stat
 - [stat/stat-rhel-4-doc.txt](stat/stat-rhel-4-doc.txt)
+- [stat/stat-kernel-doc.txt](stat/stat-kernel-doc.txt)
 
 ## /proc/swaps
 - [swaps/swaps-rhel-4-doc.txt](swaps/swaps-rhel-4-doc.txt)
