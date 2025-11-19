@@ -1,0 +1,4 @@
+ 63 device-mapper
+175 agpgart
+135 rtc
+134 apm_bios
