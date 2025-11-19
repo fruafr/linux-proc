@@ -1,0 +1,14 @@
+           CPU0
+  0:    8728810          XT-PIC  timer
+  1:        895          XT-PIC  keyboard
+  2:          0          XT-PIC  cascade
+  3:     531695          XT-PIC  aha152x
+  4:    2014133          XT-PIC  serial
+  5:      44401          XT-PIC  pcnet_cs
+  8:          2          XT-PIC  rtc
+ 11:          8          XT-PIC  i82365
+ 12:     182918          XT-PIC  PS/2 Mouse
+ 13:          1          XT-PIC  fpu
+ 14:    1232265          XT-PIC  ide0
+ 15:          7          XT-PIC  ide1
+NMI:          0
