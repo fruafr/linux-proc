@@ -1,0 +1,36 @@
+Adaptec AIC7xxx driver version: 5.1.19/3.2.4
+Compile Options:
+  TCQ Enabled By Default : Disabled
+  AIC7XXX_PROC_STATS     : Disabled
+  AIC7XXX_RESET_DELAY    : 5
+Adapter Configuration:
+           SCSI Adapter: Adaptec AHA-294X Ultra SCSI host adapter
+                           Ultra Wide Controller
+    PCI MMAPed I/O Base: 0xeb001000
+ Adapter SEEPROM Config: SEEPROM found and used.
+      Adaptec SCSI BIOS: Enabled
+                    IRQ: 10
+                   SCBs: Active 0, Max Active 2,
+                         Allocated 15, HW 16, Page 255
+             Interrupts: 160328
+      BIOS Control Word: 0x18b6
+   Adapter Control Word: 0x005b
+   Extended Translation: Enabled
+Disconnect Enable Flags: 0xffff
+     Ultra Enable Flags: 0x0001
+ Tag Queue Enable Flags: 0x0000
+Ordered Queue Tag Flags: 0x0000
+Default Tag Queue Depth: 8
+    Tagged Queue By Device array for aic7xxx host instance 0:
+      {255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255}
+    Actual queue depth per device for aic7xxx host instance 0:
+      {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}
+Statistics:
+(scsi0:0:0:0)
+  Device using Wide/Sync transfers at 40.0 MByte/sec, offset 8
+  Transinfo settings: current(12/8/1/0), goal(12/8/1/0), user(12/15/1/0)
+  Total transfers 160151 (74577 reads and 85574 writes)
+(scsi0:0:6:0)
+  Device using Narrow/Sync transfers at 5.0 MByte/sec, offset 15
+  Transinfo settings: current(50/15/0/0), goal(50/15/0/0), user(50/15/0/0)
+  Total transfers 0 (0 reads and 0 writes)
