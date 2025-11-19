@@ -1,0 +1,11 @@
+           CPU0       
+  0:   80448940          XT-PIC  timer
+  1:     174412          XT-PIC  keyboard
+  2:          0          XT-PIC  cascade
+  8:          1          XT-PIC  rtc
+ 10:     410964          XT-PIC  eth0
+ 12:      60330          XT-PIC  PS/2 Mouse
+ 14:    1314121          XT-PIC  ide0
+ 15:    5195422          XT-PIC  ide1
+NMI:          0 
+ERR:          0
