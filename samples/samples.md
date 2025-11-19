@@ -8,6 +8,7 @@
 
 ## /proc/[PID]
 - PID is the process indentification number
+- [PID/arch_status-doc.txt](PID/arch_status-doc.txt)
 - [PID/io-kernel-doc.txt](PID/io-kernel-doc.txt)
 - [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt)
 - [PID/mountinfo-kernel-doc.txt](PID/mountinfo-kernel-doc.txt)
