@@ -1,0 +1,17 @@
+
+           CPU0       CPU1
+  0:    1243498    1214548    IO-APIC-edge  timer
+  1:       8949       8958    IO-APIC-edge  keyboard
+  2:          0          0          XT-PIC  cascade
+  5:      11286      10161    IO-APIC-edge  soundblaster
+  8:          1          0    IO-APIC-edge  rtc
+  9:      27422      27407    IO-APIC-edge  3c503
+ 12:     113645     113873    IO-APIC-edge  PS/2 Mouse
+ 13:          0          0          XT-PIC  fpu
+ 14:      22491      24012    IO-APIC-edge  ide0
+ 15:       2183       2415    IO-APIC-edge  ide1
+ 17:      30564      30414   IO-APIC-level  eth0
+ 18:        177        164   IO-APIC-level  bttv
+NMI:    2457961    2457959
+LOC:    2457882    2457881
+ERR:       2155
