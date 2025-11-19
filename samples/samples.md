@@ -14,6 +14,8 @@
 - [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt)
 - [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt)
 
+## /proc/irq
+- [irq/irq-kernel-doc.txt](irq/irq-kernel-doc.txt)
 ----
 ## Files
 ## /proc/apm
