@@ -47,8 +47,12 @@
 - [filesystems/filesystems-rhel-4-doc.txt](filesystems/filesystems-rhel-4-doc.txt)
 
 ## /proc/interrupts
-- **Single processor**: [interrupts-rhel-4-doc-1.txt](interrupts-rhel-4-doc-1.txt)
-- **Multiple processor**: [interrupts-rhel-4-doc-2.txt](interrupts-rhel-4-doc-2.txt)
+- **Single processor**:
+  - [interrupts/interrupts-rhel-4-doc-1.txt](interrupts/interrupts-rhel-4-doc-1.txt)
+  - [interrupts/interrupts-kernel-doc-1.txt](interrupts/interrupts-kernel-doc-1.txt)
+- **Multiple processor**:
+  - [interrupts/interrupts-kernel-doc-2.txt](interrupts/interrupts-kernel-doc-2.txt)
+  - [interrupts/interrupts-rhel-4-doc-2.txt](interrupts/interrupts-rhel-4-doc-2.txt)
 
 ## /proc/iomem
 - [iomem/iomem-rhel-4-doc.txt](iomem/iomem-rhel-4-doc.txt)
