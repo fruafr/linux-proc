@@ -1,0 +1,13 @@
+           CPU0       CPU1       
+  0: 1366814704          0          XT-PIC  timer
+  1:        128        340    IO-APIC-edge  keyboard
+  2:          0          0          XT-PIC  cascade
+  8:          0          1    IO-APIC-edge  rtc
+ 12:       5323       5793    IO-APIC-edge  PS/2 Mouse
+ 13:          1          0          XT-PIC  fpu
+ 16:   11184294   15940594   IO-APIC-level  Intel EtherExpress Pro 10/100 Ethernet
+ 20:    8450043   11120093   IO-APIC-level  megaraid
+ 30:      10432      10722   IO-APIC-level  aic7xxx
+ 31:         23         22   IO-APIC-level  aic7xxx
+NMI:          0
+ERR:          0
