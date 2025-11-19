@@ -108,6 +108,9 @@
 ## /proc/pci
 - [pci/pci-rhel-4-doc.txt](pci/pci-rhel-4-doc.txt)
 
+## /proc/softirqs
+- [softirqs/softirqs-kernel-doc.txt](softirqs/softirqs-kernel-doc.txt)
+
 ## /proc/slabinfo
 - [slabinfo/slabinfo-rhel-4-doc.txt](slabinfo/slabinfo-rhel-4-doc.txt)
 
