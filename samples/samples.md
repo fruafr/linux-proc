@@ -112,6 +112,10 @@
 
 ## /proc/mounts
 - [mounts/mounts-rhel-4-doc.txt](mounts/mounts-rhel-4-doc.txt)
+- [mounts/mounts-kernel-doc-1.txt](mounts/mounts-kernel-doc-1.txt)
+- [mounts/mounts-kernel-doc-2.txt](mounts/mounts-kernel-doc-2.txt)
+- [mounts/mounts-kernel-doc-3.txt](mounts/mounts-kernel-doc-3.txt)
+- [mounts/mounts-kernel-doc-4.txt](mounts/mounts-kernel-doc-4.txt)
 
 ## /proc/mtrr
 - [mtrr/mtrr-rhel-4-doc.txt](mtrr/mtrr-rhel-4-doc.txt)
