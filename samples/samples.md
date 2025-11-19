@@ -11,7 +11,7 @@
 
 ## /proc/[PID]
 - [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt)
-- [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt)
+- [PID/numa_maps-kernel-doc.txt](PID/numa_maps-kernel-doc.txt)
 - [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt)
 
 ----
