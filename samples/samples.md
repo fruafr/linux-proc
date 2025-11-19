@@ -94,6 +94,9 @@
 ## /proc/mtrr
 - [mtrr/mtrr-rhel-4-doc.txt](mtrr/mtrr-rhel-4-doc.txt)
 
+## /proc/pagetypeinfo
+- [pagetypeinfo/pagetypeinfo-kernel-doc.txt](pagetypeinfo/pagetypeinfo-kernel-doc.txt)
+
 ## /proc/partitions
 - [partitions/partitions-rhel-4-doc.txt](partitions/partitions-rhel-4-doc.txt)
 
