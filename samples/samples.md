@@ -7,11 +7,11 @@
 ## Folders - Subfolders
 
 ## /proc/self
-
+- [self/status-kernel-doc.txt](self/status-kernel-doc.txt)
 
 ## /proc/[PID]
-- [maps-kernel-doc.txt](maps-kernel-doc.txt)
-- [smaps-kernel-doc.txt](smaps-kernel-doc.txt)
+- [PID/maps-kernel-doc.txt](PID/maps-kernel-doc.txt)
+- [PID/smaps-kernel-doc.txt](PID/smaps-kernel-doc.txt)
 
 ----
 ## Files
