@@ -25,6 +25,9 @@
 ## /proc/self
 - [self/status-kernel-doc.txt](self/status-kernel-doc.txt)
 
+## /proc/tty
+- [tty/tty-drivers-kernel-doc.txt](tty/tty-drivers-kernel-doc.txt)
+
 ----
 ## Files
 
