@@ -18,6 +18,10 @@
 - [irq/irq-kernel-doc.txt](irq/irq-kernel-doc.txt)
 ----
 ## Files
+
+## /proc/allocinfo
+- [allocinfo/allocinfo-kernel-doc.txt](allocinfo/allocinfo-kernel-doc.txt)
+
 ## /proc/apm
 - [apm/apm-rhel-4-doc.txt](apm/apm-rhel-4-doc.txt)
 
