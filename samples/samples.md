@@ -23,6 +23,7 @@
 
 ## /proc/buddyinfo
 - [buddyinfo/buddyinfo-rhel-4-doc.txt](buddyinfo/buddyinfo-rhel-4-doc.txt)
+- [buddyinfo/buddyinfo-kernel-doc.txt](buddyinfo/buddyinfo-kernel-doc.txt)
 
 ## /proc/cmdline
 - [cmdline-rhel-4-doc.txt](cmdline-rhel-4-doc.txt)
