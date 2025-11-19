@@ -18,6 +18,10 @@
 ## /proc/net
 - [net/dev-kernel-doc.txt](net/dev-kernel-doc.txt)
 
+## /proc/scsi
+- [scsi/scsi-kernel-doc.txt](scsi/scsi-kernel-doc.txt])
+- **SCSI adapter**: [scsi/aic7xxx-0-kernel-doc.txt](scsi/aic7xxx-0-kernel-doc.txt)
+
 ## /proc/self
 - [self/status-kernel-doc.txt](self/status-kernel-doc.txt)
 
@@ -112,9 +116,6 @@
 
 ## /proc/pci
 - [pci/pci-rhel-4-doc.txt](pci/pci-rhel-4-doc.txt)
-
-## /proc/scsi
-- [scsi/scsi-kernel-doc.txt](scsi/scsi-kernel-doc.txt])
 
 ## /proc/softirqs
 - [softirqs/softirqs-kernel-doc.txt](softirqs/softirqs-kernel-doc.txt)
